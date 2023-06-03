@@ -1,1 +1,6 @@
-print("Learning Lua")
+-- This is a comment
+-- [[
+--	multi 
+--	line 
+--	comment
+-- ]]
